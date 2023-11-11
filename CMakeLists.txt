@@ -15,3 +15,6 @@ add_executable(SumOfOneToTen ChapterOne/Section4/SumOfOneToTen/SumOfOneToTen.cpp
 
 project(AddNums)
 add_executable(AddNums ChapterOne/Section4/AddNums/AddNums.cpp)
+
+project(CountSameNums)
+add_executable(CountSameNums ChapterOne/Section4/CountSameNums/CountSameNums.cpp)
