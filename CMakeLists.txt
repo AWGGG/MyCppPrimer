@@ -12,3 +12,6 @@ add_executable(MultiplyTwoNum ChapterOne/Section2/MultiplyTwoNum/MultiplyTwoNum.
 
 project(SumOfOneToTen)
 add_executable(SumOfOneToTen ChapterOne/Section4/SumOfOneToTen/SumOfOneToTen.cpp)
+
+project(AddNums)
+add_executable(AddNums ChapterOne/Section4/AddNums/AddNums.cpp)
