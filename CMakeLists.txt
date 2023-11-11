@@ -18,3 +18,14 @@ add_executable(AddNums ChapterOne/Section4/AddNums/AddNums.cpp)
 
 project(CountSameNums)
 add_executable(CountSameNums ChapterOne/Section4/CountSameNums/CountSameNums.cpp)
+
+project(RW_Sales_item)
+add_executable(RW_Sales_item ChapterOne/Section5/RW_Sales_item/main.cpp
+                            Utils/Sales_item.h)
+
+project(AddTwoItem)
+add_executable(AddTwoItem ChapterOne/Section5/AddTwoItem/main.cpp
+                            Utils/Sales_item.h)
+
+project(CheckTwoItems)
+add_executable(CheckTwoItems ChapterOne/Section5/CheckTwoItems/main.cpp)
