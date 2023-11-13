@@ -29,3 +29,6 @@ add_executable(AddTwoItem ChapterOne/Section5/AddTwoItem/main.cpp
 
 project(CheckTwoItems)
 add_executable(CheckTwoItems ChapterOne/Section5/CheckTwoItems/main.cpp)
+
+project(BookstoreApp)
+add_executable(BookstoreApp ChapterOne/Section6/BookstoreApp/main.cpp)
