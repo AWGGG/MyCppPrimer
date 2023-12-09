@@ -32,3 +32,12 @@ add_executable(CheckTwoItems ChapterOne/Section5/CheckTwoItems/main.cpp)
 
 project(BookstoreApp)
 add_executable(BookstoreApp ChapterOne/Section6/BookstoreApp/main.cpp)
+
+project(InnerScope)
+add_executable(InnerScope ChapterTwo/Section2/InnerScope/main.cpp)
+
+project(CustomDataStruct)
+add_executable(CustomDataStruct ChapterTwo/Section2/CustomDataStruct/main.cpp)
+
+project(HowToUseStr)
+add_executable(HowToUseStr ChapterThree/HowToUseStr/main.cpp)
